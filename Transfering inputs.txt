@@ -1,0 +1,1 @@
+Start arduino first. Then python
